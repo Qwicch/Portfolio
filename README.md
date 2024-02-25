@@ -13,10 +13,12 @@ Portfolio is a single-page website that displays my personal and professional in
 To install and run the website locally, follow these steps:
 
 1. Clone the repository from GitHub:
+```bash
 git clone https://github.com/Qwicch/Portfolio.git
-2. Open the index.html file in your browser of choice.
+```
+3. Open the index.html file in your browser of choice.
 
-3. Or you can follow the Link to see a preview.
+4. Or you can follow the Link to see a preview.
 
 ```
 https://qwicch.github.io/Portfolio/

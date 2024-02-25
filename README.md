@@ -19,7 +19,7 @@ git clone https://github.com/Qwicch/Portfolio.git
 3. Or you can follow the Link to see a preview.
 
 ```
-https://qwicch.github.io/MoveIt/
+https://qwicch.github.io/Portfolio/
 ```
 
 ## License and Author Info
